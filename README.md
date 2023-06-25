@@ -1,5 +1,5 @@
 # Wipera1n
-This is a tool that I coded to help people when they want to erase a checkm8-compatible device without losing the iOS version. I am pretty certain that the tool doesn't work on the iPhone 5s or iPhone 6. I will definitely update this repository if I find a way to wipe those devices though. iPhone 6s to iPhone X should work seamlessly though. This tool doesn't require any special dependencies. All you need to do is enter DFU mode on your iDevice and the tool will work. Hope you find Wipera1n useful!
+This is a tool that I coded to help people when they want to erase a checkm8-compatible device without losing the iOS version. I am pretty certain that the tool doesn't work on the iPhone 5s or iPhone 6. I will definitely update this repository if I find a way to wipe those devices though. iPhone 6s to iPhone X should work seamlessly though. This tool doesn't require any special dependencies. All you need to do is enter DFU mode on your iDevice and the tool will work. 
 
 
 HOW TO USE WIPERA1N:
