@@ -1,0 +1,105 @@
+ActivationState: Unactivated
+BasebandActivationTicketVersion: V2
+BasebandCertId: 2315222105
+BasebandChipID: 9781473
+BasebandKeyHashInformation: 
+ AKeyStatus: 2
+ SKeyHash: u+/tcCwvaQ+1Y9t40I4yegCEmB28mALlaROhaIVGBWo=
+ SKeyStatus: 0
+BasebandMasterKeyHash: 8CB15EE4C8002199070D9500BB8FB183B02713A5CA2A6B92DB5E75CE15536182
+BasebandRegionSKU: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: KTNxJg==
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 7.70.01
+BluetoothAddress: 64:b0:a6:3a:bc:3a
+BoardId: 8
+BrickState: true
+BuildVersion: 17H35
+CPUArchitecture: arm64
+CarrierBundleInfoArray[1]: 
+ 0: 
+  CFBundleIdentifier: com.apple.Verizon_LTE_US
+  CFBundleVersion: 41.0.1
+  GID1: bae0000000000000
+  GID2: ffffffffffffffff
+  IntegratedCircuitCardIdentity: 89148000002781258865
+  InternationalMobileSubscriberIdentity: 311480278615330
+  MCC: 311
+  MNC: 480
+  MobileEquipmentIdentifier: 35382508276420
+  SIMGID1: uuAAAAAAAAA=
+  SIMGID2: //////////8=
+  Slot: kOne
+  kCTPostponementInfoAvailable: DefaultCarrierInfo
+CertID: 2315222105
+ChipID: 32784
+ChipSerialNo: KTNxJg==
+DeviceClass: iPhone
+DeviceColor: 1
+DeviceName: iPhone
+DieID: 7956651197369638
+EthernetAddress: 64:b0:a6:3a:bc:3b
+FirmwareVersion: iBoot-5540.140.12
+FusingStatus: 3
+GID1: bae0000000000000
+GID2: ffffffffffffffff
+HardwareModel: D10AP
+HardwarePlatform: t8010
+HasSiDP: true
+HostAttached: true
+IntegratedCircuitCardIdentity: 89148000002781258865
+InternationalMobileEquipmentIdentity: 353825082764203
+InternationalMobileSubscriberIdentity: 311480278615330
+InternationalMobileSubscriberIdentityOverride: false
+MLBSerialNumber: F3Y64210GS1H6TGD
+MobileEquipmentIdentifier: 35382508276420
+MobileSubscriberCountryCode: 311
+MobileSubscriberNetworkCode: 480
+ModelNumber: MNAJ2
+NonVolatileRAM: 
+ IONVRAM-SYNCNOW-PROPERTY: SU9OVlJBTS1TWU5DTk9XLVBST1BFUlRZ
+ auto-boot: dHJ1ZQ==
+ backlight-level: MTUwNA==
+ boot-args: 
+ boot-breadcrumbs: ZDAwKSAzMDAwYyg2OTYyNjU2MykgNDAwNDAwMWEgNDAwNDAwMTMgNDAwNDAwMTEgNDAwNDAwMWMgMzAwMGQgPERPTkU+IDxDT01NSVQ+IDxCT09UPiAxYzAwMmIoMjAwNmQwMCkgMzAwMGMoNjk2MjY1NjMpIDQwMDQwMDFhIDQwMDQwMDEzIDQwMDQwMDExIDQwMDQwMDFjIDMwMDBkIDxET05FPiA8PEJPT1Q+IDAwMDMwMDBjKDY5NjI2NTYzKSA0MDA0MDAxYSA0MDA0MDAxMyA0MDA0MDAxMSA0MDA0MDAxYyAwMDAzMDAwZCA8RE9ORT4gPENPTU1JVD4g
+ com.apple.System.tz0-size: MHhDMDAwMDA=
+ obliteration: bWFpbjogU2FmZU9ibGl0ZXJhdGlvbiBDb21wbGV0ZQ==
+PRIVersion_Major: 0
+PRIVersion_Minor: 1
+PRIVersion_ReleaseNo: 222
+PartitionType: GUID_partition_scheme
+PasswordProtected: false
+PhoneNumber: +1 (808) 345-7392
+PkHash: if98WU1oTt+jcaZlvUC9AOG/rlbJxZpIN+cg7Rv1bCY=
+ProductName: iPhone OS
+ProductType: iPhone9,1
+ProductVersion: 13.7
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: f3oABTIAHgBiEG1BP9czQgAAyEJSSTpBvrAcQgAAFkNSSTpBvrAcQgAAFkMK9wVD2T3CQLjGnUR7NJ5EhZOdREipnUTNexBCfPIRQsXgGkLnDB1CAAAgQnWTA0OQ8T9CAABIQnuM0UN149BDAPoQRkSrXkPjx7sdASAYDmaNpEU3GZpD7AuwRQMAAAAAAABa
+RegionInfo: LL/A
+SIMGID1: uuAAAAAAAAA=
+SIMGID2: //////////8=
+SIMStatus: kCTSIMSupportSIMStatusReady
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedWithSIM
+SerialNumber: FK1SL8Z3HG71
+SoftwareBehavior: EQAAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1687716211.373494
+TimeZone: US/Pacific
+TimeZoneOffsetFromUTC: -25200.000000
+TrustedHostAttached: true
+UniqueChipID: 7956651197369638
+UniqueDeviceID: e752923fc8c93d00038165bc6edbd295b850b26e
+UntrustedHostBUID: 7C94C719-9F28-4332-8700-7C36B79B73BA
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: 64:b0:a6:3a:bc:39
+WirelessBoardSerialNumber: F50081EE80
+kCTPostponementInfoPRIVersion: 0.1.222
+kCTPostponementInfoPRLName: 1
+kCTPostponementInfoServiceProvisioningState: true
+kCTPostponementStatus: kCTPostponementStatusReady
