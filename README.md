@@ -3,9 +3,12 @@ This is a tool that I coded to help people when they want to erase a checkm8-com
 
 
 HOW TO USE WIPERA1N:
-1. Connect your iDevice in normal mode. If there is a passcode, then you can enter DFU mode, click Erase, and then click yes when you see the pop-up that asks if your device is in DFU mode already. Enter your iOS version with the steps listed in the text field, and Wipera1n will erase your device.
-2. If you have not followed the steps above, and your device is in Normal mode, then first, click the Erase Device button. Once Wipera1n detects your iOS version, it will prompt you to enter DFU mode now. You can find out how to enter DFU mode on your device by Googling "How to enter DFU mode on" and then your iPhone model. Example might be "How to enter DFU mode on iPhone 7".
-3. Once in DFU mode, click the OK button and the erase will start.
+1. Connect your iDevice in normal mode.
+2. Open Terminal which can be found in the Other folder in your Launchpad. Once you have a new window open, type 'cd' all lower case, and without the quotes. Then, drag and drop the Wipera1n folder you downloaded from here into the Terminal window. Now press enter.
+3. Type './Wipera1n' without the quotes, and with a capital W. If you want, to make things quicker, you can type './Wi' with a capital W and without the quoutes, then press the tab key on your keyboard to fill in the whole filename.
+4. If there is a passcode on your device, then you can enter DFU mode, click Erase, and then click yes when you see the pop-up that asks if your device is in DFU mode already. Enter your iOS version with the steps listed in the text field, and Wipera1n will erase your device.
+5. If you have not followed the steps above, and your device is unlocked in Normal mode, then first, click the Erase Device button. Once Wipera1n detects your iOS version, it will prompt you to enter DFU mode now. You can find out how to enter DFU mode on your device by Googling "How to enter DFU mode on" and then your iPhone model. Example might be "How to enter DFU mode on iPhone 7".
+6. Once in DFU mode, click the OK button and the erase will start.
 
 Please keep in mind:
 
