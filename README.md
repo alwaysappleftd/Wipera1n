@@ -8,6 +8,7 @@ HOW TO USE WIPERA1N:
 3. Once in DFU mode, click the OK button and the erase will start.
 
 Please keep in mind:
+
 If the device you are using is passcode locked or disabled, you may not know the iOS version of it. In this case, you can just put "12" in the version input text box. If you don't know your iOS version, Wipera1n will always ask you to put just the first part of the version, not with all of the other in-between versions. So if your device was running iOS 13.4.1, you would put just 13 in the box. This is due to a bug in the code that I cannot seem to fix at this point. If I fix it, I will remove that requirement in Wipera1n.
 
 Hope that you find this app useful.
