@@ -1,0 +1,13 @@
+Please note: This app does not require any jailbreak or any special software! All you need is to enter DFU Mode and you're good to go!
+
+WARNING: DO NOT open Wipera1n by just double clicking on the Wipera1n executable!
+This will make the app fail because it doesn't have the right files it needs to access for the erase process. You must cd into the directory BEFORE running it via Terminal.
+
+INSTRUCTIONS TO USE WIPERA1N:
+
+[1] Open up a blank Terminal window. (Terminal can be found in the "Other" folder inside your Launchpad)
+[2] Type 'cd' all lower case, without the quotes. Then put a space, and drag and drop the folder that this text file is inside of (you may have to go back once with the back button in Finder) into the Terminal window. Finally, hit enter.
+[3] Type './Wipera1n', with a capital W, and without the quotes. Now, you can use the app!
+NOTE: You can also just type './Wi' with a capital W and press the tab key on your keyboard to fill in the whole filename.
+
+Enjoy using this app!
