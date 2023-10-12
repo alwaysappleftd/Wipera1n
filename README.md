@@ -14,7 +14,7 @@ If Terminal doesn't output anything, then it's not installed.
 
 https://www.python.org/ftp/python/3.12.0/python-3.12.0-macos11.pkg
 
-Paste this whole link into any
+Click or paste this whole link into any
 web browser to download.
 Once everything here is done,
 click OK to continue.
