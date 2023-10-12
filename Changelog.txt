@@ -1,5 +1,0 @@
-WHAT'S NEW IN WIPERA1N v1.2:
-
-1. Updated iOS version text box to use multiple characters with in-between versions instead of just the first number.
-2. Added Get Help button that takes user to the Wipera1n page on my website.
-
