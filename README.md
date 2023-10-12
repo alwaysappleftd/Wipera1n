@@ -1,5 +1,5 @@
 # Wipera1n
-This is a tool that I coded to help people when they want to erase a checkm8-compatible device without losing the iOS version. I am pretty certain that the tool doesn't work on the iPhone 5s or iPhone 6. I will definitely update this repository if I find a way to wipe those devices though. iPhone 6s to iPhone X should work seamlessly though. This tool doesn't require any special dependencies. All you need to do is enter DFU mode on your iDevice and the tool will work. 
+This is a tool that I coded to help people when they want to erase a checkm8-compatible device without losing the iOS version. The new Wipera1n version 1.3 now supports the iPhone 5s and iPhone 6! I have updated this repository with the latest Wipera1n executable. I am still in testing phases though, so there may be a few more updates to come. iPhone 6s to iPhone X should work seamlessly though. This tool doesn't require any special dependencies. All you need to do is enter DFU mode on your iDevice and the tool will work. 
 
 
 HOW TO USE WIPERA1N:
@@ -12,7 +12,7 @@ HOW TO USE WIPERA1N:
 
 Please keep in mind:
 
-If the device you are using is passcode locked or disabled, you may not know the iOS version of it. In this case, you can just put "12" in the version input text box. If you don't know your iOS version, Wipera1n will always ask you to put just the first part of the version, not with all of the other in-between versions. So if your device was running iOS 13.4.1, you would put just 13 in the box. This is due to a bug in the code that I cannot seem to fix at this point. If I fix it, I will remove that requirement in Wipera1n.
+If the device you are using is passcode locked or disabled, you may not know the iOS version of it. In this case, you can just put "12.0" in the version input text box. Remember that I fixed the issue where the user had to only put the first number in the version a few months ago, so you can put the entire full version with the in-between versions. So if your device was running iOS 13.4.1, you would put all of that into the box.
 
 Hope that you find Wipera1n useful.
 Enjoy!
